@@ -2,12 +2,10 @@
 <h1>MVP Engenharia de Dados</h1> <!-- maior -->
 
 <br>
-<table>
-  <tr>
-    <td><img src="[images/img1.png](https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/imagem%20rio.jpg)" width="300"/></td>
-    <td><img src="[images/img2.png](https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/foto%20copan.jpg)" width="300"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="(https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/imagem%20rio.jpg)" alt="Imagem 1" width="45%" style="display:inline-block; margin-right:10px;"/>
+  <img src="(https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/foto%20copan.jpg)" alt="Imagem 2" width="45%" style="display:inline-block;"/>
+</p>
 <br>
 <br>
 
