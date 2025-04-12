@@ -1,6 +1,16 @@
 
 <h1>MVP Engenharia de Dados</h1> <!-- maior -->
 
+<br>
+<table>
+  <tr>
+    <td><img src="[images/img1.png](https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/imagem%20rio.jpg)" width="300"/></td>
+    <td><img src="[images/img2.png](https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/foto%20copan.jpg)" width="300"/></td>
+  </tr>
+</table>
+<br>
+<br>
+
 **1. Introdução**
 1. Quais as perguntas que este projeto pretende responder? 
 
@@ -300,12 +310,15 @@ em diferentes plataformas:
 
 **Metadados:** Formato: CSV ou JSON Origem: Web Scraping
 
-> Fonte: Web sites OLX, Viva Real e ZAP Imóveis Data: Março 2025 e Abril
-> 2025
+> Fonte: Web sites OLX, Viva Real e ZAP Imóveis
+> Data: Março 2025 e Abril 2025
 
 **Campos Comuns:**
 <br>
-
+<div style="text-align: center;">
+  <img src="https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/Tabela%20cidade%20Bronze.JPG"/>
+  <br>
+</div>
 <br>
 
 >
@@ -327,28 +340,15 @@ Bronze / Silver
 
 > Fonte: Tratamentos e Limpeza feitos na camada Silver / Agregações e
 > análises na camada Gold
->
 > Data: Março 2025 e Abril 2025
 
 **Campos Comuns:**
 
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/Tabela%20cidade.JPG"/>
+  <br>
+</div>
 <br>
 
 >
@@ -365,17 +365,16 @@ tabela imóveis) e está armazenada na camada **SILVER.**
 
 **Metadados:** Formato: CSV Origem: Cep Aberto
 
-> Fonte: www.cepaberto.com Data: Abril 2025
+> Fonte: www.cepaberto.com
+> Data: Abril 2025
 
 **Campos Comuns:**
+
 <br>
-Nome da Coluna	Descrição	Tipo de Dado	Nullable
-CEP (PK)	Código Postal Correios	Char	Não
-Logradouro	Nome do logradouro, endereço	String	Não
-Número	Número ou lado da rua	String	Sim
-Bairro	Nome do Bairro	Varchar	Sim
-Mun_ibge	Código do Município IBGE	Integer	Não
-UF_ibge	Código do Estado	Integer	Não
+<div style="text-align: center;">
+  <img src="https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/Tabela%20Cep.JPG"/>
+  <br>
+</div>
 <br>
 
 >
@@ -403,13 +402,11 @@ enriquecidos na etapa de análise dos dados.
 
 **Campos Comuns:**
 
-||
-||
-||
-||
-||
-||
-||
+<br>
+<div style="text-align: center;">
+  <img src="https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/Tabela%20Geocode.JPG"/>
+  <br>
+</div>
 
 <br>
 <br>
