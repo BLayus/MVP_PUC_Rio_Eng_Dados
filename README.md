@@ -124,7 +124,7 @@ além do que está disponível no site.
 
 > 2
 
-<![Extração Scrapy](Img/ScreenShot_Web Scraping.png)
+<![Extração Scrapy](https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/ScreenShot_Web%20Scraping.png)
 style="width:6.23986in;height:3.09723in" />
 
 > 3\. **Extração** **dos** **Dados**
