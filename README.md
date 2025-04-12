@@ -6,11 +6,11 @@
   <img src="https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/imagem%20rio.jpg" alt="Imagem 1" height="200px" style="display:inline-block; margin-right:10px;"/>
   <img src="https://github.com/BLayus/MVP_PUC_Rio_Eng_Dados/blob/main/Img/foto%20copan.jpg" alt="Imagem 2" height="200px" style="display:inline-block;"/>
 </p>
-<br>
+
 <br>
 <h2>Comparativo Entre Preços de Aluguéis de Imóveis - Rio X São Paulo</h2>
 <br>
-<br>
+
 **1. Introdução**
 1. Quais as perguntas que este projeto pretende responder? 
 
