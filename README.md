@@ -474,6 +474,21 @@ análise, como por exemplo: bases do ibge ou do ipea com dados sócio-econômico
 <br>
 
 >
+>**6.1\.Links dos Notebooks do Databricks**
+>
+
+[Notebook Inicializador](https://community.cloud.databricks.com/editor/notebooks/2358015081565480?o=4036740505847515#command/3961346577541887) - garante que todas as camadas e tabelas já criadas sejam recarregadas ao reiniciar o cluster.
+
+[Notebook Bases Auxiliares](https://community.cloud.databricks.com/editor/notebooks/267360430114877?o=4036740505847515#command/267360430114880) - Camada Silver com tratamento das bases auxiliares.
+
+[Notebook Camada Bronze](https://community.cloud.databricks.com/editor/notebooks/1502901700774515?o=4036740505847515#command/1502901700774518) - Camada Bronze, onde foi feita a ingestão dos arquivos e o armazenamento deles em formato de databases e tabelas Delta.
+
+[Notebook Camada Silver](https://community.cloud.databricks.com/editor/notebooks/1502901700774537?o=4036740505847515#command/1502901700774557) - Camada Silver, onde foi realizado o tratamento e o enriquecimento das bases, salvando um novo database e novas tabelas Delta.
+
+[Notebook Camada Gold](https://community.cloud.databricks.com/editor/notebooks/3440809669563722?o=4036740505847515#command/3440809669563723) - Camada onde foi realizado o trabalho de análise exploratória dos dados para responder às perguntas iniciais do projeto.  
+<br>
+<br>
+>
 > **7\. Análise dos Dados**
 >
 <br>
